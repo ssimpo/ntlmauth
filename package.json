@@ -5,6 +5,10 @@
   "private": false,
   "author": "Fabio 'MrWHO' Torchetti <mrwho@wedjaa.net>",
   "description": "NTLMv2 Authentication Helper for NodeJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WedjaaOpen/ntlmauth.git"
+  },
   "dependencies": {
 	"bignumber" : "*",
 	"crypto" : "*"
