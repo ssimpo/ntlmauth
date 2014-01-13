@@ -1,0 +1,12 @@
+{
+  "name": "ntlmauth",
+  "main": "./lib/ntlmauth.js",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Fabio 'MrWHO' Torchetti <mrwho@wedjaa.net>",
+  "description": "NTLMv2 Authentication Helper for NodeJS",
+  "dependencies": {
+	"bignumber" : "*",
+	"crypto" : "*"
+  }
+}
