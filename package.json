@@ -1,7 +1,7 @@
 {
   "name": "ntlmauth",
   "main": "./lib/ntlmauth.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "author": "Fabio 'MrWHO' Torchetti <mrwho@wedjaa.net>",
   "description": "NTLMv2 Authentication Helper for NodeJS",
